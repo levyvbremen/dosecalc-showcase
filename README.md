@@ -53,19 +53,19 @@ Storage is split on purpose. Account data, community posts, and reset tokens liv
 
 ## Walkthrough
 
-A bolus calculation from carbs and current glucose:
+Login screen:
 
-![Bolus calc](./demo/bolus-calc.gif)
+![Login](./screenshots/login.png)
 
-Building a meal from the food database and getting the carb total:
+Registration:
 
-![Meal builder](./demo/meal-builder.gif)
+![Registration](./screenshots/registreer.png)
 
-Calculation log with confirmations:
+Password recovery:
 
-![Log](./screenshots/log.png)
+![Password recovery](./screenshots/wachtwoord-vergeten.png)
 
-_Replace these paths with your own GIFs and screenshots in `demo/` and `screenshots/`._
+_Showing public, unauthenticated pages only. Calculator, meal builder, dashboard, and log views live behind login and are not captured here to protect user health data._
 
 ## Code excerpts
 
